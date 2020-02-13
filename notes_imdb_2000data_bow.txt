@@ -1,0 +1,3 @@
+fitur_ekstraksi/data_bow/data_final_tf_100.txt
+HIDDEN LAYER  : 5
+Scores: None
